@@ -76,6 +76,14 @@
 ![{78CFB21A-AE62-47DC-BA88-8FA0BDC4A7EE}](https://github.com/user-attachments/assets/ae2c378e-ac60-4b09-a88e-38d455e50b62)
 
 
+# **REVERSING THE INPUTS**
+
+# **RNN-based encoder-decoders: Reversing inputs can help improve alignment and dependency management**
+
+# **Transformer-based models: Typically, reversing inputs isn’t necessary due to the self-attention mechanism handling dependencies efficiently**
+
+# **USEFUL WHEN THERE IS MORE INFORMATION HIDDEN IN THE INITIAL WORDS**
+![{6BDFCFD6-8FBA-4EB2-AA25-33EF5DBE6B9D}](https://github.com/user-attachments/assets/aa7d3959-1783-4fd9-982b-2281ed04822d)
 
 
 
